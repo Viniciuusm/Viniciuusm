@@ -21,6 +21,7 @@
   <a href="https://github.com/vinimovich"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
   <a href="https://github.com/vinimovich"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
   <a href="https://github.com/vinimovich"><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
+  <a href="https://github.com/vinimovich"><img src="https://img.shields.io/npm/types/typescript?label=%20%20%20&logo=typescript&logoColor=%23F2F2F2&style=for-the-badge"/></a>
 </div>
 
 <div>
